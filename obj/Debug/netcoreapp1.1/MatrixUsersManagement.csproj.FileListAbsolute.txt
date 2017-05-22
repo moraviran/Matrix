@@ -1,0 +1,9 @@
+c:\users\morav_000\documents\visual studio 2017\Projects\MatrixUsersManagement\MatrixUsersManagement\bin\Debug\netcoreapp1.1\MatrixUsersManagement.deps.json
+c:\users\morav_000\documents\visual studio 2017\Projects\MatrixUsersManagement\MatrixUsersManagement\bin\Debug\netcoreapp1.1\MatrixUsersManagement.runtimeconfig.json
+c:\users\morav_000\documents\visual studio 2017\Projects\MatrixUsersManagement\MatrixUsersManagement\bin\Debug\netcoreapp1.1\MatrixUsersManagement.runtimeconfig.dev.json
+c:\users\morav_000\documents\visual studio 2017\Projects\MatrixUsersManagement\MatrixUsersManagement\bin\Debug\netcoreapp1.1\MatrixUsersManagement.dll
+c:\users\morav_000\documents\visual studio 2017\Projects\MatrixUsersManagement\MatrixUsersManagement\bin\Debug\netcoreapp1.1\MatrixUsersManagement.pdb
+c:\users\morav_000\documents\visual studio 2017\Projects\MatrixUsersManagement\MatrixUsersManagement\obj\Debug\netcoreapp1.1\MatrixUsersManagement.csprojResolveAssemblyReference.cache
+c:\users\morav_000\documents\visual studio 2017\Projects\MatrixUsersManagement\MatrixUsersManagement\obj\Debug\netcoreapp1.1\MatrixUsersManagement.AssemblyInfo.cs
+c:\users\morav_000\documents\visual studio 2017\Projects\MatrixUsersManagement\MatrixUsersManagement\obj\Debug\netcoreapp1.1\MatrixUsersManagement.dll
+c:\users\morav_000\documents\visual studio 2017\Projects\MatrixUsersManagement\MatrixUsersManagement\obj\Debug\netcoreapp1.1\MatrixUsersManagement.pdb
